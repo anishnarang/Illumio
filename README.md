@@ -37,7 +37,8 @@ I tested the script with the tests in the PDF.
 test_inputs = [("inbound", "tcp", 80, "192.168.1.2"), ("inbound", "udp", 53, "192.168.2.1"), ("outbound", "tcp", 10234, "192.168.10.11"), ("inbound", "tcp", 81, "192.168.1.2"),("inbound", "udp", 24, "52.12.48.92")]
 
 # Teams I am interested in:
+Data and Platform teams
 1. New College Graduate, 2019, Software Engineer, Data
 2. New College Graduate, 2019, Data Visualization
 3. New College Graduate, 2019, Back-end Software Engineer, Policy
-4. New College Graduate, 2019, Back-end Software Engineer, Platform
+
